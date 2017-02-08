@@ -18,3 +18,19 @@ p.major{
     color: blue;
     font-size: 30px;
 }
+.awesomeness{
+    text-align: center;
+}
+
+.whole {
+    text-align: center;
+}
+
+.hunger{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.food{
+    color: green;
+}
